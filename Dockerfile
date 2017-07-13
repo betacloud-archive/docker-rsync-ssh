@@ -17,6 +17,7 @@ RUN apt-get update \
         openssh-server \
     && chmod +x /run.sh \
     && useradd -m -d /var/lib/rsync rsync \
+    && mkdir -p /var/run/sshd \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
