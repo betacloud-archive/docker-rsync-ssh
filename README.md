@@ -1,6 +1,6 @@
-# docker-rsyncd
+# docker-rsync-ssh
 
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-betacloud%2Frsyncd-blue.svg)](https://hub.docker.com/r/betacloud/rsyncd/)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-betacloud%2Frsync--ssh-blue.svg)](https://hub.docker.com/r/betacloud/rsync-ssh/)
 
 License
 -------
